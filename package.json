@@ -1,0 +1,8 @@
+{
+  "name":"macbil-radar-pro-live",
+  "version":"5.0.0",
+  "private":true,
+  "type":"module",
+  "scripts":{"start":"node backend/server.js"},
+  "engines":{"node":">=22"}
+}
